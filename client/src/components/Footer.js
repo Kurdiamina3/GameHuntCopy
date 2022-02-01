@@ -49,7 +49,7 @@ const Footer = () => {
             {/* Replace all links with Icons!! >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */}
             <CardGroup>
               <Card.Link className='text-light' target='_blank' href='https://github.com/Kurdiamina3'><BsGithub /></Card.Link>
-              <Card.Link className='text-light' target='_blank' href='https://secure-badlands-97898.herokuapp.com/'><FaUserTie /></Card.Link>
+              <Card.Link className='text-light' target='_blank' href='https://git.heroku.com/kurdiaminaportfolio.git'><FaUserTie /></Card.Link>
             </CardGroup>
             {/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< */}
           </Card>
